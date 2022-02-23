@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673777223173",
+    "project_id": "fanpage-app-cced6",
+    "storage_bucket": "fanpage-app-cced6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673777223173:android:ca556940fae1a387aabe6c",
+        "android_client_info": {
+          "package_name": "com.example.fanpage_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673777223173-jq8fg1pafehehme6ahm8chpp1i4e9ijc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfsBpAcPQS2qFF-28K30VMvIfnOwX-wyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673777223173-jq8fg1pafehehme6ahm8chpp1i4e9ijc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
