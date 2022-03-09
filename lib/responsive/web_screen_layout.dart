@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:fanpage_flutter/utils/colors.dart';
 import 'package:fanpage_flutter/utils/global_variables.dart';
 import 'package:flutter/cupertino.dart';

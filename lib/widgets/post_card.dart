@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:fanpage_flutter/models/user.dart';
 import 'package:fanpage_flutter/providers/user_provider.dart';
@@ -258,7 +256,7 @@ class _PostCardState extends State<PostCard> {
                   child: Container(
                     padding: const EdgeInsets.symmetric(vertical: 4),
                     child: Text(
-                      'View all $commentLen comments',
+                      'View all comments',
                       style:
                           const TextStyle(fontSize: 16, color: secondaryColor),
                     ),

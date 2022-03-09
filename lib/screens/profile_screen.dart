@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:fanpage_flutter/resources/auth_methods.dart';
 import 'package:fanpage_flutter/resources/firestore_methods.dart';
